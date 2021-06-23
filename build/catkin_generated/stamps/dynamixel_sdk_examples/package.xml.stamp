@@ -1,0 +1,19 @@
+<package format="2">
+  <name>LidarSweep</name>
+  <version>0.1.0</version>
+  <description>
+  This package enables the Dynamixel XH430-W350-r servo motor to repeatedly sweeps a LiDAR sensor for increased capture.
+  </description>
+  <maintainer email="neuha321@gmail.com">Noah Doddridge</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>std_msgs</build_depend>
+
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+</package>

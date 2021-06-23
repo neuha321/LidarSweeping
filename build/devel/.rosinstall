@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/neuha/catkin_ws/src/LidarSweep/build/devel/setup.sh
